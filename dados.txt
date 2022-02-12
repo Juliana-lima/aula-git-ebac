@@ -1,11 +1,11 @@
 Dados do aluno
 
--Primeiro Nome:
--Profissão:
--Cidade:
--O que faz nas horas vaga:
--Feedback sobre o curso Qualidade de Software:
--Feedback sobre a plataforma de estudo da EBAC:
+-Primeiro Nome: Juliana
+-Profissão: Analista de Teste
+-Cidade: Marialva
+-O que faz nas horas vaga: Escuto muita música e vejo filmes
+-Feedback sobre o curso Qualidade de Software: Muito mão na massa e objetivo.
+-Feedback sobre a plataforma de estudo da EBAC: Visual moderno, mas poderia ter um aviso de "Faltou clicar em conluir aula" antes de mudar para o próxima. Pois eu constumo esquecer.
 
 Obrigado!!!
 
